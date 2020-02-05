@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BigAsteroid
+  - SmallAsteroid
+  - Collectable
+  - WeaponComp
+  - PlayerProjectile
+  - MediumAsteroid
+  - Radar
+  - FuelCanister
+  - AsteroidMarket
+  - BackGroundImage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Radar
+  - Invisible
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background Image
+    uniqueID: 2503242607
+    locked: 0
+  - name: Ships and Objects
+    uniqueID: 150802113
+    locked: 0
+  - name: Ui
+    uniqueID: 1136543025
+    locked: 0
+  - name: Radar
+    uniqueID: 2913098425
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
